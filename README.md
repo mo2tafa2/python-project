@@ -1,2 +1,1 @@
-# python-project
-i like python
+print("c.ronaldo")
